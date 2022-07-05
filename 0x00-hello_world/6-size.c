@@ -9,7 +9,7 @@
 int main(void)
 {
 int i;
-long int i;
+long int \;
 long long int \\;
 float d;
 char c;
