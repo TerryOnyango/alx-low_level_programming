@@ -1,8 +1,9 @@
-include "main.h"
+#include "main.h"
+#include <stdio.h>
 /**
  * mul -> multiplying 2 numbers
- * @a: interger parameter1
- * @b: integer parameter2
+ * @a: integer parameter1
+ * @b: integer parameter2 
  * Return: success and integer
  */
 int mul(int a, int b)
