@@ -1,4 +1,4 @@
-nclude "main.h"
+include "main.h"
 /**
  * mul -> multiplying 2 numbers
  * @a: interger param1
